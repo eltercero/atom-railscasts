@@ -3,8 +3,8 @@
   "theme": "syntax",
   "version": "0.0.0",
   "private": true,
-  "description": "A short description of your theme",
-  "repository": "https://github.com/atom/railscasts",
+  "description": "Original Railscasts theme covnerted fro mTextmate to Atom.",
+  "repository": "https://github.com/eltercero/atom-railscasts",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
